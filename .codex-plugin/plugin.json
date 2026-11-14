@@ -1,0 +1,26 @@
+{
+  "name": "sait-eksperta",
+  "version": "0.2.0",
+  "description": "Сайт или лендинг эксперта уровня лучших мировых сайтов: портрет человека, золотое сечение, объём светом и тенью, лёгкие эффекты, тексты без ИИ-штампов, проверка.",
+  "author": {
+    "name": "expert-site-skill contributors"
+  },
+  "license": "MIT",
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Сайт эксперта",
+    "shortDescription": "Красивый сайт эксперта без ИИ-шаблона",
+    "longDescription": "Начинает с портрета человека, строит вёрстку на золотом сечении, даёт реалистичный объём через фото, рамки, свет и тень, пишет тексты без ИИ-штампов и проверяет страницу.",
+    "developerName": "expert-site-skill contributors",
+    "category": "Design",
+    "capabilities": [
+      "Read",
+      "Write"
+    ],
+    "defaultPrompt": [
+      "Сделай сайт для психолога по этим материалам"
+    ]
+  },
+  "homepage": "https://github.com/eabelozer26-droid/expert-site-skill",
+  "repository": "https://github.com/eabelozer26-droid/expert-site-skill"
+}

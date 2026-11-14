@@ -1,0 +1,17 @@
+{
+  "name": "sait-eksperta",
+  "version": "0.2.0",
+  "description": "Сайт или лендинг эксперта уровня лучших мировых сайтов: портрет человека, золотое сечение, объём светом и тенью, лёгкие эффекты, тексты без ИИ-штампов, проверка.",
+  "author": {
+    "name": "expert-site-skill contributors"
+  },
+  "license": "MIT",
+  "keywords": [
+    "сайт",
+    "лендинг",
+    "эксперт",
+    "дизайн"
+  ],
+  "homepage": "https://github.com/eabelozer26-droid/expert-site-skill",
+  "repository": "https://github.com/eabelozer26-droid/expert-site-skill"
+}
